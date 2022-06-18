@@ -258,6 +258,10 @@ body {
     .main__information {
         align-items: center;
     }
+    
+    .adv__allblock {
+        margin-top: 30px;
+    }
 }
 
 
