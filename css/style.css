@@ -134,10 +134,11 @@ body {
     }
 }
 
-/* Stydy English with us */
+/* Study English with us */
 .inf__block {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 10px 30px;
 }
 
@@ -147,6 +148,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .main__photo {
@@ -249,8 +251,8 @@ body {
     }
 
     .inf__block {
-        display: block;
         text-align: center;
+        align-items: center;
     }
 }
 
