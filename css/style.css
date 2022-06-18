@@ -252,6 +252,7 @@ body {
     .inf__block {
         text-align: center;
         align-items: center;
+        justify-content: center;
     }
     
     .main__information {
