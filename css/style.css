@@ -144,6 +144,9 @@ body {
 .main__information {
     padding: 0 17px;
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .main__photo {
@@ -178,6 +181,7 @@ body {
     box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.3);
     border: none;
     text-decoration: none;
+    cursor: pointer;
 }
 
 /* advantages */
@@ -283,6 +287,8 @@ body {
     font-weight: 400;
     list-style-type: none;
     counter-increment: list;
+    display: flex;
+    align-items: center;
 }
 
 .stages__list li:not(:nth-child(3)) {
