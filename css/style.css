@@ -240,7 +240,6 @@ body {
     }
 
     .main__information {
-        align-items: center;
         margin-bottom: 60px;
     }
 }
@@ -252,6 +251,10 @@ body {
 
     .inf__block {
         text-align: center;
+        align-items: center;
+    }
+    
+    .main__information {
         align-items: center;
     }
 }
