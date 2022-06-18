@@ -247,7 +247,7 @@ body {
 
 @media (max-width: 800px) {
     .main__photo {
-        margin: 0 auto;
+        display: none;
     }
 
     .inf__block {
