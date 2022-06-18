@@ -148,7 +148,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
 }
 
 .main__photo {
@@ -241,6 +240,7 @@ body {
     }
 
     .main__information {
+        align-items: center;
         margin-bottom: 60px;
     }
 }
